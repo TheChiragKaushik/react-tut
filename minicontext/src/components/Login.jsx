@@ -13,6 +13,7 @@ function Login() {
         setUser({username, password});
     }
 
+    console.log(setUser);
 
   return (
     <div>
